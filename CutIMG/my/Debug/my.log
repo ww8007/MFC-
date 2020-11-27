@@ -1,0 +1,5 @@
+﻿  myView.cpp
+C:\Users\Jang\source\repos\비쥬얼 bitmap 과제\my\my\myView.cpp(123,94): error C2039: 'ce': 'CSize'의 멤버가 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\atltypes.h(31): message : 'CSize' 선언을 참조하십시오.
+C:\Users\Jang\source\repos\비쥬얼 bitmap 과제\my\my\myView.cpp(123,103): error C2660: 'CDC::BitBlt': 함수는 7개의 인수를 사용하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\atlmfc\include\afxwin.h(796,7): message : 'CDC::BitBlt' 선언을 참조하십시오.
